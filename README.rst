@@ -7,8 +7,8 @@ Varnish Throttling Module
 -------------------------
 
 :Author: Dag Haavi Finstad
-:Date: 2015-12-14
-:Version: 1.0.1
+:Date: 2023-10-13
+:Version: 1.0.2
 :Manual section: 3
 
 SYNOPSIS
